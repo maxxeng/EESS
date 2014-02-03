@@ -1,0 +1,14 @@
+To create a stand-alone MATLAB tool:
+1.  At the MATLAB command-line, change to the working directory (cd c:\path_to_working_dir)
+2.  Type deploytool
+3.  Press Ctrl-B to build new executable
+4.  Press Ctrl-P to create new stand-alone package
+5.  The stand-alone package executable will be named eess_pkg.exe.  The executable's location is in the subdirectory eess/distrib
+
+
+To install and run the stand-alone MATLAB tool:
+
+1.  Copy the file eess_pkg.exe to a read/write working directory
+2.  Click on eess_pkg.exe
+3.  Folow the instructions to install MATLAB runtime compiler
+4.  After completion, an executable file named eess.exe should be extracted to the wokring directory.  Double-click to run the MATLAB tool.
