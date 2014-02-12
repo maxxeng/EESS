@@ -12,3 +12,4 @@ To install and run the stand-alone MATLAB tool:
 2.  Click on eess_pkg.exe
 3.  Folow the instructions to install MATLAB runtime compiler
 4.  After completion, an executable file named eess.exe should be extracted to the wokring directory.  Double-click to run the MATLAB tool.
+5.  The CSV material data files for use with the MATLAB tool can be imported directly from the CD or copied to a local directory.
